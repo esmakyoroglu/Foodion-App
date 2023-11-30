@@ -1,14 +1,16 @@
+# Foodion App
+Yemek siparişi verebileciğiniz uygulama 
+
 ## Projeyi Başlatmak İçin
+Geliştirme Araçları ve Bağımlılıklarını indirme 
 
-#Geliştirme Araçları ve Bağımlılıklarını indirme 
+ `cd  AwesomeProject && npm install` 
 
-# `cd  AwesomeProject && npm install` 
+## Uygulamayı Çalıştırma
 
-#Uygulamayı Çalıştırma
+ `npm start`
 
-# `npm start`
+## Uygulamayı İstineline Platformda Çalıştırma
 
-#Uygulamayı İstineline Platformda Çalıştırma
-
-# `npm run ios`
-# `npm run android`
+ `npm run ios`
+ `npm run android`
