@@ -1,5 +1,5 @@
 # Foodion App
-Yemek siparişi verebileciğiniz uygulama 
+Yemek siparişi verebileciğiniz react-native kullanılarak yapılmış uygulama 
 
 ## Projeyi Başlatmak İçin
 Geliştirme Araçları ve Bağımlılıklarını indirme 
